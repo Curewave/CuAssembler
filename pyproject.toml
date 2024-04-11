@@ -1,0 +1,18 @@
+[project]
+name = "CuAssembler"
+version = "0.0.1"
+authors = [
+  { name="Curewave", email="wangbeve@gmail.com" },
+]
+description = "An unofficial cuda assembler, for all generations of SASS, hopefully ：）"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Curewave/CuAssembler"
+Issues = "https://github.com/Curewave/CuAssembler/issues"
